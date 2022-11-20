@@ -1,3 +1,7 @@
+<div id="header" align="center">
+
+<img src="https://media.giphy.com/media/2ACICsAyBtIWs/giphy.gif" width="200" />
+
 Hola soy Joceline Ortega 
 Me considero una persona bastante pro-activa ,responsable,puntual ,me adapto con bastante facilidad y tengo la
 capacidad de trabajar en equipo .Mi objetivo principal es poner en practica mis conocimientos .
