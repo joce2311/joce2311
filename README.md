@@ -29,6 +29,8 @@ capacidad de trabajar en equipo .Mi objetivo principal es poner en practica mis 
 
 
 <a href="" target="_blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+    
+   
       
     
   <h1 align="center"><img src="https://media.tenor.com/images/887963f99c02c8990c1e488f64917134/tenor.gif" width="70"/>Estadisticas</h1>
@@ -36,6 +38,8 @@ capacidad de trabajar en equipo .Mi objetivo principal es poner en practica mis 
 <a href="https://github.com/joce2311">
     <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=joce2311&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joce2311&layout=compact&langs_count=7&theme=dracula"/>
+    
+  
       
       
       
